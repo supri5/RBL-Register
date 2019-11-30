@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34585" started-at="2019-11-30T05:16:24Z" finished-at="2019-11-30T05:16:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34585" started-at="2019-11-30T05:16:24Z" finished-at="2019-11-30T05:16:59Z">
+      <class name="RBL.Registration">
+        <test-method status="PASS" signature="Register()[pri:0, instance:RBL.Registration@614c5515]" name="Register" duration-ms="34551" started-at="2019-11-30T05:16:24Z" finished-at="2019-11-30T05:16:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+      </class> <!-- RBL.Registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
